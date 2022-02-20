@@ -1,0 +1,17 @@
+.gray-color{
+    background-color: #F6F5FA
+}
+.field-color{
+    background-color: rgb(209, 205, 205);
+}
+.seving-input{
+    width: 90px;
+}
+.Warning{
+    display: none;
+    position: relative;
+}
+#closeWarning, #closeWarning-2{
+    position: absolute;
+    right: 10px;
+}
